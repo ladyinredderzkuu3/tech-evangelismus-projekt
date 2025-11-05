@@ -1,0 +1,13 @@
+{
+  "name": "tech-evangelismus-projekt",
+  "version": "1.0.0",
+  "description": "Plattform für Technikbegeisterte",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "license": "MIT"
+}
